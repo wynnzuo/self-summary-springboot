@@ -5,7 +5,7 @@ __springboot使用过程中的一些功能自我总结__
 ## mybatis-generate项目
 __使用mybatis-generator插件配合tk.mabatis逆向工程生成mapper和pojo__
 * 本地mysql数据库 : mysql 8.0.12  
-*注意*  
+## 注意
 1.由于使用mysql 8.*版本
 * 所以驱动为
 ```
